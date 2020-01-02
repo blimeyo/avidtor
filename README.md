@@ -1,2 +1,0 @@
-# avidtor
-Testing
